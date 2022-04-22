@@ -1,0 +1,6 @@
+#配置文件
+#开发者模式
+demoMode = true
+
+#额外扫描包名称，多个用逗号分割（com.yourpackage.demo,cn.yourpackage）
+scanPackage = win.topzx.ferp.start
